@@ -1,4 +1,9 @@
 jflshdfsajfashfdasd
 algo de texto
+<<<<<<< HEAD
 y otro poco mas
 
+=======
+
+y algo más 
+>>>>>>> 40a54313286a800149839430045fb5aa6bde555e
